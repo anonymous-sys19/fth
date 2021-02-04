@@ -52,25 +52,25 @@ tambien contiene una herramienta ya existente que esta disponible en mi github l
 
 ##                                   Instalación: 
 <br>
-```bash <br>
-# Actualizar su lista de paquetes
-$ sudo apt update && apt upgrade
-<br>
-# Clonar el repositorio 
-$ git clone https://github.com/anonymous-sys19/fthv2
-<br>
-# Entre al repositorio
-$ cd fthv2
-<br>
-# Inicar
-$ bash install.sh
-<br>
-# si no es esta en usuario root
-$ sudo bash install.sh
-<br>
-# Podra ejecutar desde el menu o escribiendo fth
-<br>
-```    
+  ```bash <br>
+  # Actualizar su lista de paquetes
+  $ sudo apt update && apt upgrade
+  <br>
+  # Clonar el repositorio 
+  $ git clone https://github.com/anonymous-sys19/fthv2
+  <br>
+  # Entre al repositorio
+  $ cd fthv2
+  <br>
+  # Inicar
+  $ bash install.sh
+  <br>
+  # si no es esta en usuario root
+  $ sudo bash install.sh
+  <br>
+  # Podra ejecutar desde el menu o escribiendo fth
+  <br>
+  ```    
 <br>
 
 ## Video 
@@ -82,18 +82,18 @@ $ sudo bash install.sh
 <br>
 # Que es fthv2 #*
 
-    <br>fth es una herramienta diseñada y pensada para aquellas personas que enpiensan en el mundo de la informatica, donde podras llevar a cabo trabajos del entorno linux 
-    como el uso de la herramienta y sus modulos agregados.
-    como lo eh mencionado se puede interactuar con las herramientas del systema [/usr/bin]
-    los modulos bases son basicos  como [Fuerza bruta a puertos ; ssh, ftp, mysql, :]
-    por otro lado, agrege  la interaccion de crear payloads automatizados.
-    como principio solo contiene [1 android :[1 windows]]
-    tambien contiene una herramienta ya existente que esta disponible en mi github llamada [Hacker]
-    Si deceas ver el uso te dejo el <a href="images/video.mkv"> link </a> 
-    <br>
-    <br>
+<br>fth es una herramienta diseñada y pensada para aquellas personas que enpiensan en el mundo de la informatica, donde podras llevar a cabo trabajos del entorno linux 
+como el uso de la herramienta y sus modulos agregados.
+como lo eh mencionado se puede interactuar con las herramientas del systema [/usr/bin]
+los modulos bases son basicos  como [Fuerza bruta a puertos ; ssh, ftp, mysql, :]
+por otro lado, agrege  la interaccion de crear payloads automatizados.
+como principio solo contiene [1 android :[1 windows]]
+tambien contiene una herramienta ya existente que esta disponible en mi github llamada [Hacker]
+Si deceas ver el uso te dejo el <a href="images/video.mkv"> link </a> 
+<br>
+<br>
 
-    </br>
+</br>
                             
 <p align='center'>ESPERO LES GUSTE </p>
 
