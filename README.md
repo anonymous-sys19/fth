@@ -54,23 +54,24 @@ tambien contiene una herramienta ya existente que esta disponible en mi github l
 <br>
 ```bash <br>
 
-# Actualizar su lista de paquetes<br>
-  $ sudo apt update && apt upgrade
-  <br>
-# Clonar el repositorio <br>
-  $ git clone https://github.com/anonymous-sys19/fthv2
-  <br>
-# Entre al repositorio<br>
-  $ cd fthv2
-  <br>
-# Inicar<br>
-  $ bash install.sh
-  <br>
-# si no es esta en usuario root<br>
-  $ sudo bash install.sh
-  <br>
-# Podra ejecutar desde el menu o escribiendo fth<br>
-  <br>
+  # Actualizar su lista de paquetes<br>
+    $ sudo apt update && apt upgrade
+    <br>
+  # Clonar el repositorio <br>
+    $ git clone https://github.com/anonymous-sys19/fthv2
+    <br>
+  # Entre al repositorio<br>
+    $ cd fthv2
+    <br>
+  # Inicar<br>
+    $ bash install.sh
+    <br>
+  # si no es esta en usuario root<br>
+    $ sudo bash install.sh
+    <br>
+    # Podra ejecutar desde el menu o escribiendo<br>
+    fth
+    <br>
 ```    
 <br>
 
