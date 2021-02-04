@@ -70,9 +70,9 @@ bash <br>
     $ sudo bash install.sh
   
   # Podra ejecutar desde el menu o escribiendo<br>
-  fth
-  <br>
-  </br>
+    $fth
+   <br>
+   </br>
 
 ## Video 
 <div align='center'>
