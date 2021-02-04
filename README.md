@@ -52,7 +52,7 @@ tambien contiene una herramienta ya existente que esta disponible en mi github l
 
 ##                                   Instalación: 
 <br>
-```bash <br>
+bash <br>
 
   # Actualizar su lista de paquetes<br>
     $ sudo apt update && apt upgrade
@@ -68,12 +68,11 @@ tambien contiene una herramienta ya existente que esta disponible en mi github l
     <br>
   # si no es esta en usuario root<br>
     $ sudo bash install.sh
-    <br>
-    # Podra ejecutar desde el menu o escribiendo<br>
-    fth
-    <br>
-```    
-    </br>
+  <br>
+  # Podra ejecutar desde el menu o escribiendo<br>
+  fth
+  <br>
+  </br>
 
 ## Video 
 <div align='center'>
